@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>Testimony</name>
+	<displayName><![CDATA[Testimony]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Desc pour Testimony Desc pour Testimony ]]></description>
+	<author><![CDATA[Hamaz]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
